@@ -13,7 +13,7 @@ RUN apt-get update && \
     docker-php-ext-install pdo pdo_mysql gd
 
 # Expose the port Apache listens on
-EXPOSE 80
+EXPOSE 8001
 
 # Start Apache when the container runs
 CMD ["apache2-foreground"]
