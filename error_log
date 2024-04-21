@@ -1,0 +1,131 @@
+[09-May-2022 14:43:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function FILTER_SANITIZE_STRING() in /home/cimedcoa/public_html/api_send_email/endpoints/home.php:26
+Stack trace:
+#0 /home/cimedcoa/public_html/api_send_email/endpoints/home.php(15): send_email('Isaquias Sebast...', 'patisaquias2000...', 'Solicita\xC3\xA7\xC3\xA3o d...', 'Isaquias')
+#1 /home/cimedcoa/public_html/api_send_email/routeSwitch.php(12): require('/home/cimedcoa/...')
+#2 /home/cimedcoa/public_html/api_send_email/router.php(17): RouteSwitch->api_function()
+#3 /home/cimedcoa/public_html/api_send_email/index.php(10): Router->run('/api_send_email...')
+#4 {main}
+  thrown in /home/cimedcoa/public_html/api_send_email/endpoints/home.php on line 26
+[09-May-2022 14:44:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function FILTER_SANITIZE_STRING() in /home/cimedcoa/public_html/api_send_email/endpoints/home.php:26
+Stack trace:
+#0 /home/cimedcoa/public_html/api_send_email/endpoints/home.php(15): send_email('Isaquias Sebast...', 'patisaquias2000...', 'Solicita\xC3\xA7\xC3\xA3o d...', 'Isaquias')
+#1 /home/cimedcoa/public_html/api_send_email/routeSwitch.php(12): require('/home/cimedcoa/...')
+#2 /home/cimedcoa/public_html/api_send_email/router.php(17): RouteSwitch->api_function()
+#3 /home/cimedcoa/public_html/api_send_email/index.php(10): Router->run('/api_send_email...')
+#4 {main}
+  thrown in /home/cimedcoa/public_html/api_send_email/endpoints/home.php on line 26
+[09-May-2022 14:45:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function FILTER_SANITIZE_STRING() in /home/cimedcoa/public_html/api_send_email/endpoints/home.php:26
+Stack trace:
+#0 /home/cimedcoa/public_html/api_send_email/endpoints/home.php(15): send_email('Isaquias Sebast...', 'patisaquias2000...', 'Solicita\xC3\xA7\xC3\xA3o d...', 'Isaquias')
+#1 /home/cimedcoa/public_html/api_send_email/routeSwitch.php(12): require('/home/cimedcoa/...')
+#2 /home/cimedcoa/public_html/api_send_email/router.php(17): RouteSwitch->api_function()
+#3 /home/cimedcoa/public_html/api_send_email/index.php(10): Router->run('/api_send_email...')
+#4 {main}
+  thrown in /home/cimedcoa/public_html/api_send_email/endpoints/home.php on line 26
+[09-May-2022 14:46:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function FILTER_SANITIZE_STRING() in /home/cimedcoa/public_html/api_send_email/endpoints/home.php:26
+Stack trace:
+#0 /home/cimedcoa/public_html/api_send_email/endpoints/home.php(15): send_email('Isaquias Sebast...', 'patisaquias2000...', 'Solicita\xC3\xA7\xC3\xA3o d...', 'Isaquias')
+#1 /home/cimedcoa/public_html/api_send_email/routeSwitch.php(12): require('/home/cimedcoa/...')
+#2 /home/cimedcoa/public_html/api_send_email/router.php(17): RouteSwitch->api_function()
+#3 /home/cimedcoa/public_html/api_send_email/index.php(10): Router->run('/api_send_email...')
+#4 {main}
+  thrown in /home/cimedcoa/public_html/api_send_email/endpoints/home.php on line 26
+[09-May-2022 14:47:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function FILTER_SANITIZE_STRING() in /home/cimedcoa/public_html/api_send_email/endpoints/home.php:26
+Stack trace:
+#0 /home/cimedcoa/public_html/api_send_email/endpoints/home.php(15): send_email('Isaquias Sebast...', 'patisaquias2000...', 'Solicita\xC3\xA7\xC3\xA3o d...', 'Isaquias')
+#1 /home/cimedcoa/public_html/api_send_email/routeSwitch.php(12): require('/home/cimedcoa/...')
+#2 /home/cimedcoa/public_html/api_send_email/router.php(17): RouteSwitch->api_function()
+#3 /home/cimedcoa/public_html/api_send_email/index.php(10): Router->run('/api_send_email...')
+#4 {main}
+  thrown in /home/cimedcoa/public_html/api_send_email/endpoints/home.php on line 26
+[09-May-2022 14:47:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function FILTER_SANITIZE_STRING() in /home/cimedcoa/public_html/api_send_email/endpoints/home.php:26
+Stack trace:
+#0 /home/cimedcoa/public_html/api_send_email/endpoints/home.php(15): send_email('Isaquias Sebast...', 'patisaquias2000...', 'Solicita\xC3\xA7\xC3\xA3o d...', 'Isaquias')
+#1 /home/cimedcoa/public_html/api_send_email/routeSwitch.php(12): require('/home/cimedcoa/...')
+#2 /home/cimedcoa/public_html/api_send_email/router.php(17): RouteSwitch->api_function()
+#3 /home/cimedcoa/public_html/api_send_email/index.php(10): Router->run('/api_send_email...')
+#4 {main}
+  thrown in /home/cimedcoa/public_html/api_send_email/endpoints/home.php on line 26
+[11-May-2022 20:10:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function FILTER_SANITIZE_STRING() in /home/cimedcoa/public_html/api_send_email/endpoints/home.php:26
+Stack trace:
+#0 /home/cimedcoa/public_html/api_send_email/endpoints/home.php(15): send_email('Isaquias Marque...', 'isaquias.marque...', 'Solicita\xC3\xA7\xC3\xA3o d...', 'Ol\xC3\x83\xC2\xA1, estou t...')
+#1 /home/cimedcoa/public_html/api_send_email/routeSwitch.php(12): require('/home/cimedcoa/...')
+#2 /home/cimedcoa/public_html/api_send_email/router.php(17): RouteSwitch->api_function()
+#3 /home/cimedcoa/public_html/api_send_email/index.php(10): Router->run('/api_send_email...')
+#4 {main}
+  thrown in /home/cimedcoa/public_html/api_send_email/endpoints/home.php on line 26
+[11-May-2022 20:10:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function FILTER_SANITIZE_STRING() in /home/cimedcoa/public_html/api_send_email/endpoints/home.php:26
+Stack trace:
+#0 /home/cimedcoa/public_html/api_send_email/endpoints/home.php(15): send_email('Isaquias Marque...', 'isaquias.marque...', 'Solicita\xC3\xA7\xC3\xA3o d...', 'Ol\xC3\x83\xC2\xA1, estou t...')
+#1 /home/cimedcoa/public_html/api_send_email/routeSwitch.php(12): require('/home/cimedcoa/...')
+#2 /home/cimedcoa/public_html/api_send_email/router.php(17): RouteSwitch->api_function()
+#3 /home/cimedcoa/public_html/api_send_email/index.php(10): Router->run('/api_send_email...')
+#4 {main}
+  thrown in /home/cimedcoa/public_html/api_send_email/endpoints/home.php on line 26
+[11-May-2022 20:15:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function FILTER_SANITIZE_STRING() in /home/cimedcoa/public_html/api_send_email/endpoints/home.php:28
+Stack trace:
+#0 /home/cimedcoa/public_html/api_send_email/endpoints/home.php(17): send_email('Isaquias Sebast...', 'isaquias.marque...', 'Solicita\xC3\xA7\xC3\xA3o d...', 'Ol\xC3\x83\xC2\xA1, estou t...')
+#1 /home/cimedcoa/public_html/api_send_email/routeSwitch.php(12): require('/home/cimedcoa/...')
+#2 /home/cimedcoa/public_html/api_send_email/router.php(17): RouteSwitch->api_function()
+#3 /home/cimedcoa/public_html/api_send_email/index.php(10): Router->run('/api_send_email...')
+#4 {main}
+  thrown in /home/cimedcoa/public_html/api_send_email/endpoints/home.php on line 28
+[15-May-2022 11:36:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::From() in /home/cimedcoa/public_html/api_send_email/endpoints/home.php:41
+Stack trace:
+#0 /home/cimedcoa/public_html/api_send_email/endpoints/home.php(17): send_email('teste', 'teste', 'Solicita\xC3\xA7\xC3\xA3o d...', 'tste')
+#1 /home/cimedcoa/public_html/api_send_email/routeSwitch.php(12): require('/home/cimedcoa/...')
+#2 /home/cimedcoa/public_html/api_send_email/router.php(17): RouteSwitch->api_function()
+#3 /home/cimedcoa/public_html/api_send_email/index.php(10): Router->run('/api_send_email...')
+#4 {main}
+  thrown in /home/cimedcoa/public_html/api_send_email/endpoints/home.php on line 41
+[15-May-2022 11:36:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::From() in /home/cimedcoa/public_html/api_send_email/endpoints/home.php:41
+Stack trace:
+#0 /home/cimedcoa/public_html/api_send_email/endpoints/home.php(17): send_email('teste', 'teste', 'Solicita\xC3\xA7\xC3\xA3o d...', 'tste')
+#1 /home/cimedcoa/public_html/api_send_email/routeSwitch.php(12): require('/home/cimedcoa/...')
+#2 /home/cimedcoa/public_html/api_send_email/router.php(17): RouteSwitch->api_function()
+#3 /home/cimedcoa/public_html/api_send_email/index.php(10): Router->run('/api_send_email...')
+#4 {main}
+  thrown in /home/cimedcoa/public_html/api_send_email/endpoints/home.php on line 41
+[15-May-2022 11:36:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::From() in /home/cimedcoa/public_html/api_send_email/endpoints/home.php:41
+Stack trace:
+#0 /home/cimedcoa/public_html/api_send_email/endpoints/home.php(17): send_email('teste', 'teste', 'Solicita\xC3\xA7\xC3\xA3o d...', 'tste')
+#1 /home/cimedcoa/public_html/api_send_email/routeSwitch.php(12): require('/home/cimedcoa/...')
+#2 /home/cimedcoa/public_html/api_send_email/router.php(17): RouteSwitch->api_function()
+#3 /home/cimedcoa/public_html/api_send_email/index.php(10): Router->run('/api_send_email...')
+#4 {main}
+  thrown in /home/cimedcoa/public_html/api_send_email/endpoints/home.php on line 41
+[15-May-2022 11:36:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::From() in /home/cimedcoa/public_html/api_send_email/endpoints/home.php:41
+Stack trace:
+#0 /home/cimedcoa/public_html/api_send_email/endpoints/home.php(17): send_email('teste', 'testet', 'Solicita\xC3\xA7\xC3\xA3o d...', 'teste')
+#1 /home/cimedcoa/public_html/api_send_email/routeSwitch.php(12): require('/home/cimedcoa/...')
+#2 /home/cimedcoa/public_html/api_send_email/router.php(17): RouteSwitch->api_function()
+#3 /home/cimedcoa/public_html/api_send_email/index.php(10): Router->run('/api_send_email...')
+#4 {main}
+  thrown in /home/cimedcoa/public_html/api_send_email/endpoints/home.php on line 41
+[15-May-2022 11:37:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function setFromName() on null in /home/cimedcoa/public_html/api_send_email/endpoints/home.php:42
+Stack trace:
+#0 /home/cimedcoa/public_html/api_send_email/endpoints/home.php(17): send_email('teste', 'testet', 'Solicita\xC3\xA7\xC3\xA3o d...', 'teste')
+#1 /home/cimedcoa/public_html/api_send_email/routeSwitch.php(12): require('/home/cimedcoa/...')
+#2 /home/cimedcoa/public_html/api_send_email/router.php(17): RouteSwitch->api_function()
+#3 /home/cimedcoa/public_html/api_send_email/index.php(10): Router->run('/api_send_email...')
+#4 {main}
+  thrown in /home/cimedcoa/public_html/api_send_email/endpoints/home.php on line 42
+[15-May-2022 11:44:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::From() in /home/cimedcoa/public_html/api_send_email/endpoints/home.php:41
+Stack trace:
+#0 /home/cimedcoa/public_html/api_send_email/endpoints/home.php(17): send_email('tset', 'este', 'Solicita\xC3\xA7\xC3\xA3o d...', 'ets')
+#1 /home/cimedcoa/public_html/api_send_email/routeSwitch.php(12): require('/home/cimedcoa/...')
+#2 /home/cimedcoa/public_html/api_send_email/router.php(17): RouteSwitch->api_function()
+#3 /home/cimedcoa/public_html/api_send_email/index.php(10): Router->run('/api_send_email...')
+#4 {main}
+  thrown in /home/cimedcoa/public_html/api_send_email/endpoints/home.php on line 41
+[15-May-2022 12:41:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function utf_decode() in /home/cimedcoa/public_html/api_send_email/endpoints/home.php:41
+Stack trace:
+#0 /home/cimedcoa/public_html/api_send_email/endpoints/home.php(17): send_email('isaquias Sebast...', 'teste', 'Solicita\xC3\xA7\xC3\xA3o d...', 'teste sinaiza\xC3\xA7...')
+#1 /home/cimedcoa/public_html/api_send_email/routeSwitch.php(12): require('/home/cimedcoa/...')
+#2 /home/cimedcoa/public_html/api_send_email/router.php(17): RouteSwitch->api_function()
+#3 /home/cimedcoa/public_html/api_send_email/index.php(10): Router->run('/api_send_email...')
+#4 {main}
+  thrown in /home/cimedcoa/public_html/api_send_email/endpoints/home.php on line 41
+[10-Apr-2024 12:18:23 UTC] PHP Warning:  Undefined array key "mensagem" in /mnt/HC_Volume_27524624/medesign/mailme.medesign-angola.com/Mail/Mail.php on line 56
+[10-Apr-2024 12:19:09 UTC] PHP Warning:  Undefined array key "assunto" in /mnt/HC_Volume_27524624/medesign/mailme.medesign-angola.com/Mail/Mail.php on line 55
+[10-Apr-2024 12:19:24 UTC] PHP Warning:  Undefined array key "mensagem" in /mnt/HC_Volume_27524624/medesign/mailme.medesign-angola.com/Mail/Mail.php on line 56
