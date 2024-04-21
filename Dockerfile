@@ -12,6 +12,9 @@ RUN apt-get update && \
     apt-get install -y libpng-dev && \
     docker-php-ext-install pdo pdo_mysql gd
 
+RUN php --version
+RUN php -S localhost:8001
+
 # Expose the port Apache listens on
 EXPOSE 8001
 
