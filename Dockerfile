@@ -1,11 +1,15 @@
 # Use an official PHP runtime as a parent image
-FROM php:8.1.10-apache
+FROM php:8.1.10-apache as build
 
 # Set the working directory in the container
-WORKDIR /home/md-mailme-app
+WORKDIR /app
+
+COPY . /app
 
 # Copy your PHP application code into the container
-COPY . .
+FROM nginx:latest
+COPY nginx.conf /etc/nginx/conf.d/default.conf
+COPY --from=build /app /usr/share/nginx/html/mailme
 
 # Install PHP extensions and other dependencies
 RUN apt-get update && \
@@ -13,7 +17,7 @@ RUN apt-get update && \
     docker-php-ext-install pdo pdo_mysql gd
 
 # Expose the port Apache listens on
-EXPOSE 8001
+EXPOSE 80
 
 # Start Apache when the container runs
 CMD ["apache2-foreground"]
